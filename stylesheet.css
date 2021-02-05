@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(0, 255, 255, 0.301);
+}
+img {
+    width: 30%;
+    margin: 10px;
+    height: 20%;
+    border: 2px solid none;
+    border-radius: 10px;    
+}
+.image {
+    margin-left: 40px;
+    margin-right: -10px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    color: rgba(138, 44, 226, 0.753);
+}
